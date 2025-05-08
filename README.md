@@ -37,6 +37,23 @@ The program provides a menu-driven interface for various operations such as crea
 
 ### Files:
 - The contacts are stored in a file for persistence, so your data will remain even after exiting the program.
+## 📤 Sample Output
+:::Address Book Menu:::
+
+Create contact
+
+Search contact
+
+Edit contact
+
+Delete contact
+
+List all contacts
+
+Save and Exit
+Here is the output screen of the Address Book project:
+
+![Sample Output](output.png)
 
 ## How to Run:
 1. Clone this repository.
