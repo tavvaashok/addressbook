@@ -41,4 +41,6 @@ The program provides a menu-driven interface for various operations such as crea
 ## How to Run:
 1. Clone this repository.
    ```bash
-   git clone https://github.com/yourusername/addressbook.git
+   git clone https://github.com/tavvaashok/addressbook.git
+   GitHub: [tavvaashok](https://github.com/tavvaashok)
+
